@@ -1,0 +1,1 @@
+# turkish-linux-notes
