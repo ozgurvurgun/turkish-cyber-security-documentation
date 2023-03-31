@@ -1,6 +1,6 @@
-# turkish-linux-notes
+# turkish-cyber-security-documentation
 - bu içerik kali linux 2023.1 versiyon işletim sistemi temel alınarak düzenlenmiştir. 
-farklı linux distrolarında komutlarda vs farklar olabilir.
+farklı linux distroları ve sürümlerinde komutlarda vs farklar olabilir.
 # içeriğin amacı
 - içeriğin amacı siber güvenlik ile ilgili temelden ileri 
 seviyeye doğru bir dökümantasyon sunmaktır.
