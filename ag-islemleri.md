@@ -146,3 +146,12 @@ saldırı altındasınız demektir.
 
 bundan sonra wireshrak ile dinleme yapmaya başlayabiliriz
 ```
+
+ağdan kopmadan mac değiştirme
+```
+ip addr -> ip adresini falan fisman verir
+
+ip link set dev <device> down
+ip link set dev <device> address <new mac address>
+ip link set dev <device> up
+```
